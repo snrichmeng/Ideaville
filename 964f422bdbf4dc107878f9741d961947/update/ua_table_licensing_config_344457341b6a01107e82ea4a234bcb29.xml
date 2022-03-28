@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_rmeng_first_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>richard.meng@snc</sys_created_by>
+        <sys_created_on>2022-03-28 01:42:52</sys_created_on>
+        <sys_id>344457341b6a01107e82ea4a234bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_rmeng_first_table</sys_name>
+        <sys_package display_value="Ideaville" source="x_snc_rmeng">964f422bdbf4dc107878f9741d961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ideaville">964f422bdbf4dc107878f9741d961947</sys_scope>
+        <sys_update_name>ua_table_licensing_config_344457341b6a01107e82ea4a234bcb29</sys_update_name>
+        <sys_updated_by>richard.meng@snc</sys_updated_by>
+        <sys_updated_on>2022-03-28 01:42:52</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

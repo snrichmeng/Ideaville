@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="First Table" max_length="40" name="x_snc_rmeng_first_table" type="collection"/>
+</database>
