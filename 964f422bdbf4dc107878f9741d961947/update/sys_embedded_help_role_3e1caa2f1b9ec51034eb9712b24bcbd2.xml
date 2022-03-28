@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_ideaville_tablesforms" name="sn_dd_ideaville_tablesforms">221c6a2f1b9ec51034eb9712b24bcbd6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>richard.meng@snc</sys_created_by>
+        <sys_created_on>2022-03-24 01:35:00</sys_created_on>
+        <sys_id>3e1caa2f1b9ec51034eb9712b24bcbd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>221c6a2f1b9ec51034eb9712b24bcbd6</sys_name>
+        <sys_package display_value="Ideaville" source="x_snc_rmeng">964f422bdbf4dc107878f9741d961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ideaville">964f422bdbf4dc107878f9741d961947</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3e1caa2f1b9ec51034eb9712b24bcbd2</sys_update_name>
+        <sys_updated_by>richard.meng@snc</sys_updated_by>
+        <sys_updated_on>2022-03-24 01:35:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
